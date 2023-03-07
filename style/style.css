@@ -148,7 +148,7 @@ p{
     /* Text color */
 
     color: #222222;
-    transition:1s border;
+    transition:0.9s;
 }
 
 .menu_nav__link:hover {
@@ -208,6 +208,7 @@ p{
 
     margin-bottom: 70px;
     transition: 0.5s;
+
 
 }
 
