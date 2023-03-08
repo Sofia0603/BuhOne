@@ -17,6 +17,8 @@ body{
 html{
     max-width: 1920px;
     height: 100%;
+
+    scroll-behavior: smooth;
 }
 
 .container{
